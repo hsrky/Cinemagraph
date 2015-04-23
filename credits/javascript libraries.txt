@@ -1,0 +1,4 @@
+http://www.numericjs.com/
+http://inspirit.github.io/jsfeat/
+https://github.com/pnitsch/BitmapData.js
+http://www.createjs.com/
