@@ -3,7 +3,7 @@
  * HTML5 Canvas API implementation of the AS3 BitmapData class. 
  */
 
-const halfColorMax = 0.00784313725;
+var halfColorMax = 0.00784313725;
 
 var BlendMode = new function() {
 	this.ADD = "add";
